@@ -1,0 +1,37 @@
+[
+  {
+    "id": 4,
+    "date": "2024-12-05",
+    "amount": 278.32,
+    "customer_id": 158,
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "date": "2024-11-23",
+    "amount": 301.74,
+    "customer_id": 166,
+    "status": "Cancelled"
+  },
+  {
+    "id": 7,
+    "date": "2024-12-02",
+    "amount": 92.77,
+    "customer_id": 179,
+    "status": "Cancelled"
+  },
+  {
+    "id": 8,
+    "date": "2024-12-01",
+    "amount": 90.08,
+    "customer_id": 121,
+    "status": "Pending"
+  },
+  {
+    "id": 10,
+    "date": "2024-11-18",
+    "amount": 170.59,
+    "customer_id": 141,
+    "status": "Processing"
+  }
+]
